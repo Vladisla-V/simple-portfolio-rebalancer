@@ -4,6 +4,16 @@ A buy-only portfolio rebalancer. It takes cash you want to invest and allocates 
 
 ## How to run
 
+**Option A – Plain Python (no dependencies)**
+
+```
+python PortfolioRebalanceCalculator.py
+```
+
+You can also copy the contents of `PortfolioRebalanceCalculator.py` into any online Python IDE.
+
+**Option B – Jupyter Notebook**
+
 1. Install Jupyter: `pip install -r requirements.txt`
 2. Open `PortfolioRebalanceCalculator.ipynb` in Jupyter, VS Code, or Cursor.
 3. Run the cell.
