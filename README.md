@@ -6,6 +6,10 @@ Buy-only takes cash you want to invest and allocates it to the holdings that are
 
 Sell-only raises cash by selling the holdings that are furthest above their target weights. It never buys.
 
+## Schematic
+
+![Buy or sell rebalance flow](ProjectMedia/rebalance-schematic.png)
+
 ## How to run
 
 **Option A – Plain Python (no dependencies)**
